@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baglibel
+- 👋 Hi, I’m @neux0
 - 👀 I’m interested in MTA:SA Scripting
 - 🏢 I'm owner the Atom Gaming MTA:SA RPG Server
 - 🌱 I’m currently learning Lua, C#, ASP.NET Core, HTML, CSS & JavaScript
